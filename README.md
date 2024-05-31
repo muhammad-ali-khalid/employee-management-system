@@ -1,2 +1,2 @@
-# employee-management-system
-EMS is designed to streamline HR operations within large organizations. It is developed in C++ using QT and SQLite Database.
+# Employee Management System
+EMS(Employee Management System) is designed to improve different HR operations within large organizations. It is very stable and efficient application. It is developed in C++ using QT and SQLite Database.
